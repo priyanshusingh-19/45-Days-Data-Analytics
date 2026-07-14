@@ -1,0 +1,10 @@
+name =  input("What is Your Name:")
+age = input("What is Your Age:")
+city = input("Which city you belong to:")
+favorite_hobby = input("What's your favorite hobby:")
+
+print("Introduction:")
+print(f"My name is {name}.")
+print(f"I am {age} years old.")
+print(f"I am from {city}.")
+print(f"My favorite hobby is {favorite_hobby}.")
